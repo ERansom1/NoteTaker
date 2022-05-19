@@ -1,5 +1,5 @@
 {
-  "name": "Note-Taker",
+  "name": "NoteTaker",
   "version": "1.0.0",
   "description": "## Your Task",
   "main": "index.js",
@@ -23,5 +23,7 @@
     "fs": "0.0.1-security",
     "path": "^0.12.7"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
