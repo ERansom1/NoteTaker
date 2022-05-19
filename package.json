@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kylegrabski/Note-Taker.git"
+    "url": "git+https://github.com/ERansom1/NoteTaker.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kylegrabski/Note-Taker/issues"
+    "url": "https://github.com/ERansom1/NoteTaker/issues"
   },
-  "homepage": "https://github.com/kylegrabski/Note-Taker#readme",
+  "homepage": "https://github.com/ERansom1/NoteTaker#readme",
   "dependencies": {
     "express": "^4.17.1",
     "fs": "0.0.1-security",
