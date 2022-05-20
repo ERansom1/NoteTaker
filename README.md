@@ -8,7 +8,7 @@
 
 <br>
 [GitHub Repo](https://github.com/ERansom1/NoteTaker)
-
+<br>
 
 ## Usage
 
