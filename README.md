@@ -2,10 +2,13 @@
 
 ## Links
 
+![image](https://user-images.githubusercontent.com/95004183/169426839-0ce3a6dd-86d0-4edb-9870-0c760df07a4c.png)
 
+[Live site hosted at Heroku](https://app-note-taker-2022.herokuapp.com)
 
+<br>
 [GitHub Repo](https://github.com/ERansom1/NoteTaker)
-
+<br>
 
 ## Usage
 
@@ -21,4 +24,7 @@
 
 <br>
 
+<<<<<<< HEAD
 cls
+=======
+>>>>>>> f1dc6500d4af34c8911a37a27fdd378a1b729109
